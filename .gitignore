@@ -1,5 +1,6 @@
 # Don't upload our configuration file!
 config.json
+.idea
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
